@@ -1,0 +1,5 @@
+<resources>
+    <!-- Otras cadenas de texto existentes -->
+    <string name="default_web_client_id">962382738134-a1bp3sjb1shqqkdt1sqql2nr11c10ihs.apps.googleusercontent.com</string>
+    <string name="app_name">Aplicativo FitnessApp</string>
+</resources>
